@@ -1,0 +1,8 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Century;
+}
+.header{
+    background-image:linear-gradient(rbga(0,0,0,0.5))
+}
